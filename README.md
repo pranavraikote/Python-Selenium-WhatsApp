@@ -1,8 +1,8 @@
-# whatsapp-selenium
+# Python-Selenium-WhatsApp
 Python code for sending Whatsapp message using Selenium
 
 # About
-The script can send a Whatsapp message to a specified contact name using Whataspp Web. <br>
+The script can send a Whatsapp message to a specified contact name using Whataspp Web. Can be used to send bulk messages or take revenge for any prank played on you (Spamming). <br>
 (It an automated approach except the scanning of Whatsapp QR Code)
 
 # Pre-requisites
